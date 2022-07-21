@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #0f6fa0;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: #318cb9;
+    border-bottom: 5px solid;
+    font-size: 20px;
+    letter-spacing: 10px;
+    font-style: oblique;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12),
+                0 4px 8px 0 rgba(0, 0, 0, 0.19);
+}
+h2{
+    font-size: 25px;
+    color: firebrick;
+}
+h3{
+    color: aquamarine;
+}
+#camera{
+    background-color: #318cb9;
+    border-radius: 10px;
+    border: 3px solid #57b6e6;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12),
+                0 4px 8px 0 rgba(0, 0, 0, 0.19);
+    width: 510px;
+    height: 400px;
+    margin-bottom: 7px;
+}
+.btn{
+    background-color: #57b6e6;
+    color: white;
+    font-weight: 600;
+}
+#img1, #img2, #img3{
+    width: 500px;
+    margin: 2px;
+    border-radius: 10px;
+    border: 5px solid #57b6e6;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12),
+                0 4px 8px 0 rgba(0, 0, 0, 0.19);
+}
+.copy{
+    background-color: #318cb9;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12),
+    0 4px 8px 0 rgba(0, 0, 0, 0.19);
+}
